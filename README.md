@@ -1,15 +1,7 @@
-# novel
-connor writes a novel on github
-
-Title
+Novel
 =======
-## The greatest story ever told. 
+## Connor writes a novel on GitHub
 
-This is a story that I am writing on github for fun. This is a way for me to figure out github and also figure out how to write in new ways. 
+This is a story that I am writing on GitHub for fun. This is a way for me to figure out github and also figure out how to write in new ways. 
 
-`monospace test`
-
-horizontal rule 
----
-
-This is all pretty straightforward and I can look up more stuff if I need to. 
+## Rules
