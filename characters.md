@@ -1,0 +1,6 @@
+- Protagonist
+- Supporting Role #1
+- Supporting Role #2
+- Comic Relief
+- Mysterious Figure
+- Villain
